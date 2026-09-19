@@ -4,7 +4,7 @@ Backend & Product Engineer focused on building reliable web products and the sys
 
 I work across:
 
-- TypeScript and JavaScript backend services
+- TypeScript and Node.js backend services
 - PostgreSQL schema design, SQL, migrations, RPCs, and Row Level Security
 - Supabase Auth and data access
 - REST APIs, webhooks, integrations, and payment workflows
