@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sade Sagi
 
-<!--
-**sademsagi-afk/sademsagi-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Product Engineer focused on building reliable web products and the systems behind them.
 
-Here are some ideas to get you started:
+I work across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript and JavaScript backend services
+- PostgreSQL schema design, SQL, migrations, RPCs, and Row Level Security
+- Supabase Auth and data access
+- REST APIs, webhooks, integrations, and payment workflows
+- Marketplace and multi-vendor systems
+
+## Selected work
+
+- **Nanbol** - Founder and Product Engineer behind a live multi-vendor marketplace built with TypeScript, React, Supabase, and PostgreSQL.
+- **Synkroly** - Backend engineering for a collaborative work-management platform, including APIs, role-based access, scoped authorization, and collaborator workflows.
+
+## Current focus
+
+Building production backend systems with clear authorization boundaries, durable data models, and practical product ownership.
